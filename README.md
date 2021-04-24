@@ -1,6 +1,6 @@
 ### Hello Friend 🤓
 
-***My name is Stanley Ngugi and I am a Software Developer from Nairobi, Kenya. I am currently a CS Student. You can find me on [001-twitter.svg](https://twitter.com/_pedi_gree_) or [002-linkedin.svg](https://www.linkedin.com/in/stanley-ngugi-78a540106).***
+***My name is Stanley Ngugi and I am a Software Developer from Nairobi, Kenya. I am currently a CS Student. You can find me on [<img src="./assets/001-twitter.svg" width="30px">](https://twitter.com/_pedi_gree_) or [<img src="./assets/002-linkedin.svg" width="30px">](https://www.linkedin.com/in/stanley-ngugi-78a540106).***
 
 - 🧰 Programming Stack
 
