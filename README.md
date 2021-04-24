@@ -1,22 +1,16 @@
 ### Hello Friend 🤓
 
-***My name is Stanley Ngugi and I am a Software Developer from Nairobi, Kenya. ***
-***You can find me on [<img src="./001-twitter.svg" width="20px">](https://twitter.com/_pedi_gree_) or [<img src="./002-linkedin.svg" width="20px">](https://www.linkedin.com/in/stanley-ngugi-78a540106).***
+***My name is Stanley Ngugi & I am a Software Developer from Nairobi, Kenya***
 
-- 🧰 Programming Stack
-
-
-<!--
-**chege99/chege99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 
+### Programming Stack
+#
+#
+#
+🔭 I’m currently working on an E-commerce Platform.
+#
+👯 I’m looking to collaborate on Multimedia Applications (like Audio & Video players), Processing,  FOSS projects, Games and any technical solutions that improve the lives of people around me.
+#
+📫 How to reach me: 
+[<img src="./assets/001-twitter.svg" width="30px">](https://twitter.com/_pedi_gree_)
+[<img src="./002-linkedin.svg" width="30px">](https://www.linkedin.com/in/stanley-ngugi-78a540106)
