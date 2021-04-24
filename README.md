@@ -14,4 +14,5 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chege99&show_icons=true&theme=radical)
 
-[https://img.shields.io/badge/social--life-inactive-lightgrey](https://img.shields.io/badge/social--life-inactive-lightgrey)
+
+<img src="https://img.shields.io/badge/social--life-inactive-lightgrey">
