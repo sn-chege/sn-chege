@@ -1,6 +1,6 @@
 ### Hello Friend 🤓
 
-***My name is Stanley Ngugi & I am a Software Developer from Nairobi, Kenya***
+***My name is Stanley & I am a Software Developer from Nairobi, Kenya***
 
 🧰 **My Programming Stack**
 
@@ -13,7 +13,6 @@
 [<img src="./002-linkedin.svg" width="20px">](https://www.linkedin.com/in/stanley-ngugi-78a540106)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chege99&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chege99&layout=compact)](https://github.com/chege99/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chege99&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chege99&layout=compact)](https://github.com/chege99/github-readme-stats)
 
 <img src="https://img.shields.io/badge/social--life-inactive-lightgrey">
