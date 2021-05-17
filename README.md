@@ -9,8 +9,8 @@
 
 📫 **How to reach me**
 
-[<img src="./001-twitter.svg" width="20px">](https://twitter.com/_pedi_gree_)
-[<img src="./002-linkedin.svg" width="20px">](https://www.linkedin.com/in/stanley-ngugi-78a540106)
+[<img src="./001-twitter.svg" width="40px">](https://twitter.com/_pedi_gree_)
+[<img src="./002-linkedin.svg" width="40px">](https://www.linkedin.com/in/stanley-ngugi-78a540106)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chege99&show_icons=true&theme=radical)
