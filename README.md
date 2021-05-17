@@ -2,10 +2,7 @@
 
 ***My name is Stanley & I am a Software Developer from Nairobi, Kenya***
 
-🧰 **My Programming Stack**
-
-
-👯 _I’m looking to collaborate on Multimedia Applications (like Audio & Video players), Processing.js, FOSS projects, Games and any technical solutions that improve the lives of people around me._
+👯 _I’m looking to collaborate on Multimedia Applications (like Audio & Video players), Processing.js, FOSS projects and any technical solutions that improve the lives of people around me._
 
 📫 **How to reach me**
 
