@@ -12,8 +12,3 @@
 [<img src="./001-twitter.svg" width="40px">](https://twitter.com/_pedi_gree_)
 [<img src="./002-linkedin.svg" width="40px">](https://www.linkedin.com/in/stanley-ngugi-78a540106)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chege99&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chege99&layout=compact)](https://github.com/chege99/github-readme-stats)
-
-<img src="https://img.shields.io/badge/social--life-inactive-lightgrey">
