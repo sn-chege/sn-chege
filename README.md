@@ -1,4 +1,4 @@
-* :raised_back_of_hand: Hi, I’m Stanley
+⇥ :raised_back_of_hand: Hi, I’m Stanley
 
 * :computer:	 I’m interested in Software Development & AI
 
