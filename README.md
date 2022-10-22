@@ -1,6 +1,6 @@
 ⇥ :raised_back_of_hand: Hi, I’m Stanley
 
-⇥ :computer:	 I’m interested in Software Development & AI
+⇥ :computer:	 I’m interested in Cloud & AI
 
 ⇥ :cloud: I’m currently learning Cloud.
 
