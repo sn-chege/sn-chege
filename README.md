@@ -6,4 +6,4 @@
 
 ⇥ :cyclone: I’m looking to collaborate on any technical solutions that improve the lives of people around me
 
-⇥ :incoming_envelope: How to reach me : stanley.cns@gmail.com || +254714750345
+⇥ :incoming_envelope: How to reach me : stanley.cns@gmail.com
